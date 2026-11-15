@@ -1,0 +1,14 @@
+# Project theme. Run Streamlit from the dropout_app directory.
+[theme]
+base = "light"
+primaryColor = "#217A75"
+backgroundColor = "#FAF9F6"
+secondaryBackgroundColor = "#EDF3F1"
+textColor = "#24313B"
+font = "sans serif"
+baseRadius = "small"
+borderColor = "#D2D6D7"
+showWidgetBorder = true
+
+[browser]
+gatherUsageStats = false
